@@ -1,4 +1,4 @@
-- 👋 Hi, I’m adam bouzgan
+- 👋 Hi, I’m Adam Bouzgan
 - 👀 I am looking to secure a role as a data analyst.
 - 🌍 I'm based in the London Area.
 - 🌱 I’m currently learning Python, SQL, Tableau and PowerBI.
