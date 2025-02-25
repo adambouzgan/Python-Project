@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 Python Project <a href="https://github.com/adambouzgan/Python-Project" target="_blank">Python Project</a>
 SQL Project <a href="https://readme.com/" target="_blank">SQL Project</a>
 
-[https://github.com/adambouzgan/Python-Project/blob/main/Picture%201.png?raw=true](https://github.com/adambouzgan/Python-Project/blob/main/Picture%201.png?raw=true)![image](https://github.com/user-attachments/assets/0bb85917-8df3-4fe3-b77b-59578e4584db)
+(https://github.com/adambouzgan/Python-Project/blob/main/Picture%201.png?raw=true)![image](https://github.com/user-attachments/assets/0bb85917-8df3-4fe3-b77b-59578e4584db)
 
