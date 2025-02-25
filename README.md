@@ -14,5 +14,3 @@ You can click the Preview link to take a look at your changes.
 Python Project <a href="https://github.com/adambouzgan/Python-Project" target="_blank">Python Project</a>
 SQL Project <a href="https://readme.com/" target="_blank">SQL Project</a>
 
-
-<img width="460" alt="Screenshot 2025-02-25 at 08 38 45" src="https://github.com/user-attachments/assets/fd9eac79-cea6-4ef5-a203-4bd2a98edaae" />
