@@ -1,4 +1,4 @@
-<img width="50" alt="Screenshot 2025-03-05 at 07 00 50" src="https://github.com/user-attachments/assets/00dd0571-9a0c-48c9-bd08-1f0f4a5bff8f" />Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
+<img width="50" alt="Screenshot 2025-03-05 at 07 32 36" src="https://github.com/user-attachments/assets/3e423ec0-ce42-4fc7-b032-bad5a42d6002" />Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
 
 
 ## Python Project
